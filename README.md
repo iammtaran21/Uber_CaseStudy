@@ -1,1 +1,1 @@
-# Uber_CaseStudy
+# Uber_CaseStudyThe aim of the analysis is to identify the root cause of the problem (i.e., cancellation and non-availability of cars). This translates to finding the peak time periods when these problems are happening
